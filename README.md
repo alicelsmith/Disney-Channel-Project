@@ -1,2 +1,2 @@
-# Excel-Project
+# Excel-Skills
 Showcasing Excel Skills

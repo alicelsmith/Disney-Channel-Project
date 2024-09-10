@@ -1,2 +1,1 @@
-# This page highlights my proficiency in Excel through a series of diverse projects, each demonstrating a specific skill or technique.
-
+# This project leverages Excel to analyse post performance across three social media platforms for the Disney Channel, providing insights into engagement trends and platform-specific metrics. 

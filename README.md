@@ -1,2 +1,2 @@
-# This project is about showcasing my Excel Skills using various projects for each skill.
+# This page highlights my proficiency in Excel through a series of diverse projects, each demonstrating a specific skill or technique.
 
